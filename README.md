@@ -1,7 +1,7 @@
 # PyPi_structure
 Package structure to build and deploy.
 
-<b>step 1 : </b>fork reposetory. <br>
+<b>step 1 : </b>fork repository. <br>
 <b>step 2 : </b>Edit setup.cfg file.<br>
 <b>step 3 : </b>Create accounts for the Test PyPI and PyPI repositories.<br>
 <b>step 4 : </b>build using <br>
